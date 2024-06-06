@@ -10,7 +10,14 @@
 #        Enable or disable the module
 #        Default:     1 (enabled)
 
-RandomEnchants.Enable = 1
+RandomEnchants.Enable=1
+
+#
+#     RandomEnchants.Debug
+#        Describe enchantment variables in chat
+#        Default:     0
+
+RandomEnchants.Debug=0
 
 #
 #     RandomEnchants.AnnounceOnLogin
@@ -52,7 +59,7 @@ RandomEnchants.OnQuestReward=1
 #        Chance at random enchant on obtaining item from group rolls
 #        Default:     1
 
-RandomEnchants.OnGroupRoll = 1
+RandomEnchants.OnGroupRoll=1
 
 #     RandomEnchants.EnchantChance1
 #        Probability (in percentage) for the first enchant to be applied.
